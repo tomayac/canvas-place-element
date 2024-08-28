@@ -122,7 +122,7 @@ An already placed element can be drawn, but cannot have its transform updated.
 
 Usage example:
 
-```javascript
+```html
 <!doctype html>
 <html>
   <body>
